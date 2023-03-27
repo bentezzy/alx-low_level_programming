@@ -2,7 +2,7 @@
 
 /**
  * _puts - main function
- * @*str: parameter to be acted upon
+ * @str: parameter to be acted upon
  *
  * Return: 0
  */

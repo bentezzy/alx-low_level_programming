@@ -4,7 +4,7 @@
 /**
  * main - function that prints name of prog
  * @argc: prints number of arguments
- * @arg[]: prints array of argumrnts
+ * @argv: prints array of argumrnts
  *
  * Returns: 0
  */
